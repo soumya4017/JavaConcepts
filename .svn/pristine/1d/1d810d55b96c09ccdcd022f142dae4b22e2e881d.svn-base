@@ -1,0 +1,12 @@
+package com.test.xml;
+
+public class AlexSoumyaTT {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println("Soumya Sethy loves Titiksha Mishra");
+	}
+
+}
