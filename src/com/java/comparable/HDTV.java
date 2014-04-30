@@ -26,6 +26,7 @@ public class HDTV implements Comparable<HDTV> {
 
 	public void setSize(int size) {
 		this.size = size;
+		System.out.println("Testing");
 	}
 
 	// Now when we compare two HDTV objects, both should be compared wrt. their
