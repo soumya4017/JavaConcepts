@@ -18,6 +18,7 @@ public class HDTV implements Comparable<HDTV> {
 
 	public void setName(String name) {
 		this.name = name;
+		System.out.println("Rebase");
 	}
 
 	public int getSize() {
